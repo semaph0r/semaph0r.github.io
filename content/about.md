@@ -8,19 +8,25 @@ draft: false
 
 **My Journey into Offensive Security and Compliance**
 
-Hi there! I'm passionate about cybersecurity, with a focus on offensive security techniques and compliance frameworks. This blog documents my learning journey, discoveries, and insights in the ever-evolving world of information security.
+I'm on a focused path to become a professional in offensive security, ethical hacking, and compliance management. While my background is in MLOps leadership within a critical infrastructure supply chain, my current effort is dedicated to mastering offensive techniques, learning core security frameworks, and preparing for certifications that validate practical capability and risk comprehension.
+
+I started my cybersecurity journey during university by founding and leading a CTF team—an experience that taught me how to think like an attacker. Today, I’m formalizing and deepening those skills through platforms like TryHackMe and Hack The Box, while pursuing high-impact certifications like eJPT, PNPT, and OSCP.
+
+This blog is my space to learn in public—documenting what I study, the tools I experiment with, the labs I complete, and the real-world concepts I try to understand. I believe that the best way to learn deeply is to share openly, so whether I’m summarizing key security concepts or walking through my first CTF, I aim to grow while helping others on a similar path.
 
 ## What You'll Find Here
 
 - **Penetration Testing Techniques**: Walkthroughs of various penetration testing methodologies and tools
 - **Vulnerability Research**: Analysis of security vulnerabilities and exploitation techniques
-- **Compliance Insights**: Understanding security frameworks like ISO 27001, NIST, and SOC 2
+- **Compliance Insights**: Understanding security frameworks like ISO 27001, NIS2, EU Cyber Resiliency Act
 - **Tool Reviews**: Hands-on reviews of security tools and platforms
 - **Learning Resources**: Curated resources for aspiring security professionals
+- **Core cybersecurity**: Fundamentals explained in plain terms
+- **Hands-on labs**: Labs from platforms like TryHackMe and Hack The Box
+- **Certification prep**: Notes and tips from my certification prep
+- **Small projects and reflections**: Small projects and reflections as I build my security skillset
 
-## Background
-
-I'm constantly learning and exploring the intersection of offensive security and compliance, helping organizations understand their security posture from both an attacker's perspective and a regulatory standpoint.
+I created this blog not just as a learning journal, but as a way to stay accountable, make progress visible, and connect with others in the cybersecurity community. If you're also exploring cybersecurity, I hope my journey can inform or inspire yours.
 
 ## Connect
 
